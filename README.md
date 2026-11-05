@@ -1,8 +1,13 @@
+DATE : 05/11/2026
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 </p>
+
+NAME:  ANGELIN GRACY.R
+REG NO: 212225240009
+
 
 <H3>Theory and Procedure:</H3>
 To begin, let's start by defining what it means to play a perfect game of tic tac toe:
